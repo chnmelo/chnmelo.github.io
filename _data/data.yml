@@ -15,9 +15,9 @@ sidebar:
   # Sidebar links
   email: carlos.melo.contact@gmail.com
   phone: 81973154641
-  website: https://www.linkedin.com/in/carlosh-melo
+  website: 
   linkedin: carlosh-melo
-  github:
+  github: https://github.com/chnmelo
   telegram:
   gitlab:
   bitbucket:
@@ -207,7 +207,7 @@ certifications:
 skills:
   title: 'Skills & Proficiency'
   toolset:
-  - name: Python (Data Science, Flask, Scrapy)
+  - name: Python (Data Science, Flask, Scrapy, FastAPI)
     level: 98% # O nível é uma estimativa, por favor, ajuste conforme necessário
   - name: Machine Learning & Deep Learning (TensorFlow, PyTorch)
     level: 95%
