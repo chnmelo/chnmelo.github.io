@@ -51,19 +51,45 @@ education:
   info:
   - degree: PhD in Computational Intelligence
     university: Universidade de Pernambuco
-    time: 2025 - Present
+    time: Feb 2025 - Present
   - degree: MSc in Computational Intelligence
     university: Universidade Federal de Pernambuco
     time: 2020 - 2023
+    details: |
+      Thesis: Sentiment analysis of posts in Portuguese during the COVID-19 pandemic using autoencoder networks.
+      *Skills: Deep Learning, NLP, Python, R, MySQL, Git.*
   - degree: Specialization, Artificial Intelligence & Machine Learning
     university: PUC Minas
     time: 2023 - 2025
+    details: |
+      Focused on planning, building, and validating machine learning solutions.
+      *Skills: Machine Learning, Python, Statistics, Data Visualization, Apache Spark, Kafka, NiFi.*
   - degree: Specialization, IT Governance
     university: UNIASSELVI
     time: 2024 - 2024
+    details: |
+      *Skills: Audit, Quality and Productivity Management, IT Infrastructure.*
   - degree: MBA, Business Intelligence
     university: UNIASSELVI
     time: 2024 - 2024
+    details: |
+      *Skills: Information Technology, Project Management.*
+  - degree: MBA, Internet of Things
+    university: Faculdade Metropolitana
+    time: 2023 - 2024
+    details: |
+      Focused on the design and development of solutions based on connected embedded systems (IoT).
+      *Skills: Arduino, Microcontrollers, ESP32, Embedded C++, Python, Machine Learning.*
+  - degree: Bachelor's in Information Systems
+    university: Universidade Federal de Pernambuco
+    time: 2014 - 2019
+    details: |
+      *Skills: JavaScript, Android Development, Systems Analysis, Python, Linux, Java.*
+  - degree: Technical Degree in IT Maintenance and Support
+    university: Escola Técnica Estadual Professor Agamenon Magalhães
+    time: 2011 - 2013
+    details: |
+      *Skills: Microsoft Office, Linux, Hardware and Technical Support.*
 
 experiences:
   title: Experience
@@ -96,31 +122,107 @@ experiences:
       - Responsible for implementing embedded systems code, maintenance, and equipment improvements.
 
 certifications:
-  title: Certifications
+  title: Licenses & Certifications
   list:
-  - name: Introduction to DevOps
-  - name: From Zero to Node-Red (Rapid Prototyping)
-  - name: 'RPA: automate processes with No/Low Code tools'
-  - name: Learn RPA from Zero With UiPath - UiPath Master - Level 1
-  - name: 'Elixir: Syntax, Functional Programming and Pattern Matching'
-
-# As seções 'projects', 'oss', 'publications', e 'recommendations' foram removidas por não haver dados no PDF.
+  - name: Formação Apache Spark com Python
+    organization: Alura
+    start: Oct 2024
+    credentialid: 287b987a-bce6-4913-995b-64302e3f4045
+  - name: Formação Começando com Flask: framework web de Python
+    organization: Alura
+    start: Sep 2024
+    credentialid: a6e3822f-1a69-4788-9907-e27589caac64
+  - name: TensorFlow on Google Cloud
+    organization: Google Cloud Skills Boost
+    start: Jun 2024
+    credentialid: '9352515'
+  - name: Flutter: Desenvolva um Cadastro Completo
+    organization: Cod3r
+    start: May 2024
+    credentialid: tips9x9kwl
+  - name: Formação Melhore sua experiência de desenvolvimento com TypeScript
+    organization: Alura
+    start: May 2024
+    credentialid: 32990af0-ebdd-463c-8b66-26913144bd90
+  - name: Introduction to AI and Machine Learning on Google Cloud
+    organization: Google Cloud Skills Boost
+    start: May 2024
+    credentialid: '9128984'
+  - name: Prompt Design in Vertex AI
+    organization: Google Cloud Skills Boost
+    start: May 2024
+    credentialid: '9059594'
+  - name: 'Responsible AI: Applying AI Principles with Google Cloud'
+    organization: Google Cloud Skills Boost
+    start: May 2024
+    credentialid: '9071015'
+  - name: Aprenda RPA do Zero Com UiPath - Mestre UiPath - Nivel 1
+    organization: Udemy Brasil
+    start: Apr 2024
+    credentialid: UC-712b25cf-7b90-48d1-adcd-f1d90e232c93
+  - name: 'RPA: automatize processos com ferramentas No/Low Code'
+    organization: Alura
+    start: Apr 2024
+    credentialid: bc9eda32-6936-4514-80a1-8aba7e19ef57
+  - name: Introdução ao DevOps
+    organization: Faculdade Metropolitana
+    start: Jan 2024
+    credentialid: fe56794a3aadac42f7a8aff9787d144f
+  - name: Domine a Arquitetura Limpa e Hexagonal
+    organization: Udemy
+    start: Dec 2023
+    credentialid: UC-61978a44-3816-4850-9144-73730993e4a5
+  - name: 'Elixir: Sintaxe, Programação funcional e Pattern Matching'
+    organization: Alura
+    start: Dec 2023
+    credentialid: 9f5bf30d-cc52-46c2-a3a8-0798a8c6e83d
+  - name: 'Infraestrutura como código: preparando máquinas na AWS com Ansible e Terraform'
+    organization: Alura
+    start: Dec 2023
+  - name: 'Machine Learning: intro a sistemas de recomendação em Python'
+    organization: Alura
+    start: Dec 2023
+    credentialid: 77f4c545-1537-423b-9a77-a78b89567e5c
+  - name: Padrões de Projeto (Design Patterns) com Python
+    organization: Udemy
+    start: Dec 2023
+    credentialid: UC-2d832689-dbc4-4250-bffe-f73af9830ed5
+  - name: Do Zero ao Node-Red (Prototipagem rápida)
+    organization: Udemy
+    start: Mar 2020
+    credentialid: UC-e44d8d1e-6490-43fa-9b2d-3bb970ec30a4
+  - name: Introdução à Ciência de Dados 2.0
+    organization: Data Science Academy
+    start: Aug 2019
+    credentialid: 5d4c83d25e4cde47708b457e
+  - name: 'Python Scrapy: Capture Dados Web de forma rápida e escalável'
+    organization: Udemy Brasil
+    start: Aug 2019
+    credentialid: UC-8Y4IKM6B
+  - name: Testes Unitários em Java Utilizando o JUnit
+    organization: Udemy Brasil
+    start: Nov 2017
+    credentialid: UC-E7QF70X7
 
 skills:
   title: Skills &amp; Proficiency
   toolset:
-  - name: LangChain
-    level: 95% # O nível é uma estimativa, por favor, ajuste conforme necessário
-  - name: Large Language Model Operations (LLMOps)
+  - name: Python (Data Science, Flask, Scrapy)
+    level: 98% # O nível é uma estimativa, por favor, ajuste conforme necessário
+  - name: Machine Learning & Deep Learning (TensorFlow, PyTorch)
+    level: 95%
+  - name: Data Engineering (Spark, Kafka, Airflow, NiFi)
     level: 90%
-  - name: Statistical Data Analysis
-    level: 90%
-  - name: Python & Data Science Libraries
-    level: 98%
-  - name: Elixir & Javascript
+  - name: MLOps & DevOps (Docker, Kubernetes, Git, Ansible, Terraform)
     level: 85%
-  - name: MLOps (MLflow, Docker, Kubernetes)
-    level: 80%
+  - name: Generative AI & LLMOps (LangChain)
+    level: 90%
+  - name: Elixir & Javascript (TypeScript, Node-Red)
+    level: 85%
+  - name: IoT & Mobile (Arduino, ESP32, Flutter, Android)
+    level: 75%
+  - name: RPA (UiPath)
+    level: 70%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
