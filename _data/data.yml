@@ -4,283 +4,123 @@
 
 sidebar:
   position: right # position of the sidebar : left or right
-  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
-  avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  name: Carlos Melo, MSc.
+  tagline: PhD Candidate | Data & ML Engineering | Data Science
+  avatar: profile.jpg # Coloque uma foto 100x100 na pasta /assets/images/ e informe o nome aqui
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
-  telegram: # add your nickname without '@' sign
+  email: carlos.melo.contact@gmail.com
+  phone: 81973154641
+  website: https://www.linkedin.com/in/carlosh-melo # Include the full website URL, including "http://" or "https://".
+  linkedin: carlosh-melo
+  github:
+  telegram:
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  twitter:
+  stack-overflow:
   codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
-  mastodon: # Please include your full Mastodon link here.
-  hackerrank: # Please provide your HackerRank username.
-  leetcode: # Please provide your LeetCode username.
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  goodreads:
+  mastodon:
+  hackerrank:
+  leetcode:
+  pdf:
 
   languages:
     title: Languages
     info:
-    - idiom: English
+    - idiom: Portuguese
       level: Native
-
-    - idiom: French
-      level: Professional
-
-    - idiom: Spanish
-      level: Professional
+    - idiom: English
+      level: Elementary
 
   interests:
-    title: Interests
-    info:
-    - item: Climbing
-      link:
-
-
-    - item: Snowboarding
-      link:
-
-
-    - item: Cooking
-      link:
-
+    # Esta seção foi removida para manter o currículo focado nas informações profissionais.
 
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Software and Data Engineer with over 8 years of experience, currently at SENAI PE as a Data Engineer, structuring and optimizing data to support strategic decisions. With expertise in Python, JavaScript, Elixir, and Angular, I have a solid track record in developing APIs, web, mobile, and embedded systems, as well as projects in Machine Learning and Data Analysis. I hold a Master's degree in Computational Intelligence from UFPE and specializations in Artificial Intelligence, Business Intelligence, IT Governance, and the Internet of Things, always focusing on innovative and high-impact solutions.
+
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+  - degree: PhD in Computational Intelligence
+    university: Universidade de Pernambuco
+    time: 2025 - Present
+  - degree: MSc in Computational Intelligence
+    university: Universidade Federal de Pernambuco
+    time: 2020 - 2023
+  - degree: Specialization, Artificial Intelligence & Machine Learning
+    university: PUC Minas
+    time: 2023 - 2025
+  - degree: Specialization, IT Governance
+    university: UNIASSELVI
+    time: 2024 - 2024
+  - degree: MBA, Business Intelligence
+    university: UNIASSELVI
+    time: 2024 - 2024
 
 experiences:
-  title: Experiences
+  title: Experience
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Industrial Researcher I
+    time: May 2025 - Present
+    company: SENAI PE
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+      - Developing data science solutions applied to the industry, focusing on machine learning, data engineering, and MLOps.
+      - Participating in R&D projects to optimize industrial processes through predictive models, time-series analysis, and data pipeline integration.
+      - Using tools like Python, TensorFlow, PyTorch, MLflow, Docker, and Kubernetes to implement scalable and efficient solutions.
+  - role: Innovation and Technology Developer II (Data Engineering)
+    time: Oct 2024 - May 2025
+    company: SENAI PE
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+      - Developed data engineering solutions for industry, focusing on technological innovation projects.
+      - Responsible for designing, implementing, and optimizing data pipelines, ensuring the integration and quality of information to support strategic decisions.
+      - Used tools such as Python, SQL, Apache Airflow, and Spark to process large volumes of data and generate valuable insights for the industrial sector.
+  - role: Partner
+    time: Oct 2024 - Present
+    company: Baltar Tecnologia e Equipamentos LTDA
+  - role: Software Development Manager
+    time: Jan 2020 - Oct 2024
+    company: Baltar Tecnologia e Equipamentos LTDA
+  - role: Full Stack Developer
+    time: Jul 2018 - Dec 2019
+    company: Baltar Tecnologia e Equipamentos LTDA
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      - Full stack development, responsible for implementing Web, Desktop, and Mobile platforms for the company's systems.
+      - Responsible for implementing embedded systems code, maintenance, and equipment improvements.
 
 certifications:
   title: Certifications
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
-    details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+  - name: Introduction to DevOps
+  - name: From Zero to Node-Red (Rapid Prototyping)
+  - name: 'RPA: automate processes with No/Low Code tools'
+  - name: Learn RPA from Zero With UiPath - UiPath Master - Level 1
+  - name: 'Elixir: Syntax, Functional Programming and Pattern Matching'
 
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
-    end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
-    details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
-projects:
-  title: Projects
-  intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
-
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-  title: OSS Contributions
-  intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
-
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
-
-recommendations:
-  title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
-
-      He is a great employee!
+# As seções 'projects', 'oss', 'publications', e 'recommendations' foram removidas por não haver dados no PDF.
 
 skills:
   title: Skills &amp; Proficiency
-
   toolset:
-  - name: Python & Django
+  - name: LangChain
+    level: 95% # O nível é uma estimativa, por favor, ajuste conforme necessário
+  - name: Large Language Model Operations (LLMOps)
+    level: 90%
+  - name: Statistical Data Analysis
+    level: 90%
+  - name: Python & Data Science Libraries
     level: 98%
-
-  - name: Javascript & jQuery
-    level: 98%
-
-  - name: Angular
-    level: 98%
-
-  - name: HTML5 & CSS
-    level: 95%
-
-  - name: Ruby on Rails
+  - name: Elixir & Javascript
     level: 85%
-
-  - name: Sketch & Photoshop
-    level: 60%
+  - name: MLOps (MLflow, Docker, Kubernetes)
+    level: 80%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
