@@ -3,19 +3,19 @@
 #
 
 sidebar:
-  position: right # position of the sidebar : left or right
-  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: True # set to False if you want education in main section instead of in sidebar
+  position: right
+  about: False
+  education: True
 
   # Profile information
   name: Carlos Melo, MSc.
   tagline: PhD Candidate | Data & ML Engineering | Data Science
-  avatar: profile.jpg # Coloque uma foto 100x100 na pasta /assets/images/ e informe o nome aqui
+  avatar: profile.jpg
 
   # Sidebar links
   email: carlos.melo.contact@gmail.com
   phone: 81973154641
-  website: https://www.linkedin.com/in/carlosh-melo # Include the full website URL, including "http://" or "https://".
+  website: https://www.linkedin.com/in/carlosh-melo
   linkedin: carlosh-melo
   github:
   telegram:
@@ -128,7 +128,7 @@ certifications:
     organization: Alura
     start: Oct 2024
     credentialid: 287b987a-bce6-4913-995b-64302e3f4045
-  - name: Formação Começando com Flask: framework web de Python
+  - name: 'Formação Começando com Flask: framework web de Python'
     organization: Alura
     start: Sep 2024
     credentialid: a6e3822f-1a69-4788-9907-e27589caac64
@@ -136,7 +136,7 @@ certifications:
     organization: Google Cloud Skills Boost
     start: Jun 2024
     credentialid: '9352515'
-  - name: Flutter: Desenvolva um Cadastro Completo
+  - name: 'Flutter: Desenvolva um Cadastro Completo'
     organization: Cod3r
     start: May 2024
     credentialid: tips9x9kwl
@@ -205,7 +205,7 @@ certifications:
     credentialid: UC-E7QF70X7
 
 skills:
-  title: Skills &amp; Proficiency
+  title: 'Skills & Proficiency'
   toolset:
   - name: Python (Data Science, Flask, Scrapy)
     level: 98% # O nível é uma estimativa, por favor, ajuste conforme necessário
